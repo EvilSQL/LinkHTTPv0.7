@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LinkHTTP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HTTPPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7777</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.7</Value>
+    </Setting>
+    <Setting Name="EnterprisePatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Operator\настроечники\iruc</Value>
+    </Setting>
+    <Setting Name="PfrPatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Operator\настроечники\ПФР</Value>
+    </Setting>
+    <Setting Name="StatPatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Operator\настроечники\Росстат</Value>
+    </Setting>
+    <Setting Name="RateName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ParamRate_</Value>
+    </Setting>
+    <Setting Name="PfrName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ParamPFR_</Value>
+    </Setting>
+    <Setting Name="StatName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ParamStat_</Value>
+    </Setting>
+    <Setting Name="wwwroot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www</Value>
+    </Setting>
+    <Setting Name="tempcleantime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3600000</Value>
+    </Setting>
+    <Setting Name="indextime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="Year" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2016</Value>
+    </Setting>
+    <Setting Name="Secure" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DefaultParamName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ParamEnterprise</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
